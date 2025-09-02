@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/>
+</div>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
